@@ -1,4 +1,4 @@
 # testGit
 test de git
 
-bonjjour les amis
+bonjour les amis
