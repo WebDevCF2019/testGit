@@ -6,7 +6,11 @@ bonjour les amis
 
 Comment allez-vous?
 
-Vous : tytfuy ujyt �hjtguy hg!oytghfg
+Vous : tytfuy ujyt ï¿½hjtguy hg!oytghfg
 
-Et moi: Bonjour St�phane !
+
+hello
+
+Et moi: Bonjour Stéphane !
+
 
